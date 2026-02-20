@@ -1,3 +1,6 @@
+# slam의 map에 large_maze는 용량이 너무 커서 github에 넣는 것이 불가능
+beagle_slam_toolbox/map/large_maze
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
